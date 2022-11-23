@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.kym-cdn.com/photos/images/facebook/000/546/151/1d9.jpg" align="center" width="50%" />
+<img src="https://i.kym-cdn.com/photos/images/facebook/000/546/151/1d9.jpg" align="center" width="40%" />
 </div>  
   
 
