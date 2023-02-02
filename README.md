@@ -3,8 +3,11 @@
 </div>  
   
 
-### <div align="center">Welcome to my profile!</div>  
+<br/>
 
+### <div align="center"><b>Welcome to my profile!</b></div>  
+
+<br/>
 <br/>
   
 
