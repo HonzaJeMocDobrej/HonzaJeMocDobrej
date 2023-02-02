@@ -1,11 +1,11 @@
+### <div align="center"><b>Welcome to my profile!</b></div>  
+
+<br/>
+
 <div align="center">
 <img src="https://i.kym-cdn.com/photos/images/facebook/000/546/151/1d9.jpg" align="center" width="40%" />
 </div>  
   
-
-<br/>
-
-### <div align="center"><b>Welcome to my profile!</b></div>  
 
 <br/>
 <br/>
