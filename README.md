@@ -3,31 +3,21 @@
 </div>  
   
 
-### <div align="center">I'm Honza, an IT student in the second grade of High School 👨‍💻 </div>  
+### <div align="center">Welcome to my profile!</div>  
   
 
-- 🔭 I’m currently working on HTML/CSS, Java and JavaScript beginner projects  
+- I can code in: C#, Java, Python, Lua, JavaScript + (HTML & CSS)
+
+
+- I can use Game Engines such as: Unity, Roblox Studio
+
+
+- Still studying high school 
   
 
-- 🌱 I’m currently learning Java and JavaScript  
+- I am into: self-improvement, coding, sports, gaming, music
   
-
-- 🏫 I’m currently studying at Střední průmyslová škola Havlíčkova 456, Mladá Boleslav  
-  
-
-- ⚽ One of my biggest hobbies is playing football  
-  
-
-- 💻 I really enjoy gaming, especially: Rocket League, Slime Rancher and FIFA  
-  
-
-- 🚗 My peak rank in Rocket League: Grand Champion  
-  
-
-- ❓ I’m kinda new on Github, so I am grateful and opened for any advice   
-  
-
-- ⚡ Fun fact: My favorite browser is Opera GX  
+   
   
 
 <img src="https://i.pinimg.com/originals/04/19/96/041996ef250fc8792af2dc2892d6617e.gif" align="left" height="400" width="100%" />  
@@ -35,29 +25,6 @@
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
 
 
 
@@ -107,5 +74,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
