@@ -4,21 +4,24 @@
   
 
 ### <div align="center">Welcome to my profile!</div>  
+
+<br/>
   
 
 - I can code in: C#, Java, Python, Lua, JavaScript + (HTML & CSS)
 
 
 - I can use Game Engines such as: Unity, Roblox Studio
-
-
-- Still studying high school 
   
 
 - I am into: self-improvement, coding, sports, gaming, music
-  
-   
-  
+     
+
+- Still studying high school 
+
+
+<br/>
+
 
 <img src="https://i.pinimg.com/originals/04/19/96/041996ef250fc8792af2dc2892d6617e.gif" align="left" height="400" width="100%" />  
   
