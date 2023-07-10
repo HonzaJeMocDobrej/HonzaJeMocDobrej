@@ -17,7 +17,7 @@
 - 📊 MySQL
 
 ## LEARNING
-- 🌐 React
+- 🌐 React, NodeJS, ExpressJS
 
 ## INTERESTS
 - ✅ Self Improvement
