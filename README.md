@@ -11,7 +11,7 @@
 <br/>
   
 ## MY SKILL SET 
-- 🌐 HTML, CSS,  JS
+- 🌐 HTML, CSS, SASS, JS
 - 👨‍💻 Java - (Swing), Python - (Tkinter)
 - 🎮 C#, Unity
 - 📊 MySQL
