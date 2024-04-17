@@ -12,12 +12,12 @@
   
 ## MY SKILL SET 
 - 🌐 HTML, CSS, SASS, JS
+- 🌐 React, Node, Express
 - 👨‍💻 Java - (Swing), Python - (Tkinter)
-- 🎮 C#, Unity
-- 📊 MySQL
+- 📊 MySQL, MongoDB
 
 ## LEARNING
-- 🌐 React, NodeJS, ExpressJS
+- 🌐 NextJS
 
 ## INTERESTS
 - ✅ Self Improvement
